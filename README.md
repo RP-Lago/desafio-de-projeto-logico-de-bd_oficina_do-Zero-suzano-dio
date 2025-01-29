@@ -30,7 +30,7 @@ O modelo inicial foi reformulado, com as seguintes melhorias e adaptações:
 
 O diagrama a seguir representa o esquema lógico do banco de dados `db_oficina`, refletindo as mudanças e melhorias implementadas:
 
-![Diagrama do Banco de Dados](EER_Oficina_Mec.png)
+![Diagrama do Banco de Dados](assets/bd_oficina_diagram.png)
 
 *Obs: O diagrama não é um arquivo em anexo. O nome dado foi para fins de facilitar o entendimento na localização do arquivo no seu projeto. Por exemplo, caso tenha salvo dentro de uma pasta chamada `assets` e dentro dela `images`, o endereço correto seria `assets/images/dEER_Oficina_Mec.png`*
 
